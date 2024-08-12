@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Dhruv3004/T20-World-Cup-2022-Players-Analysis-Power-BI/blob/main/icc-t20-wc-2022-logo-.jpg?raw=true)
 
 ## T20 World Cup 2022 Power BI Dashboard
 
